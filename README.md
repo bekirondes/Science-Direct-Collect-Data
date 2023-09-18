@@ -1,4 +1,4 @@
-# Scince-Direct-Collect-Data
+# Collecting data from the Science-Direct website with Selenium
 
 Hello, in this project, how to extract data from the website "https://www.sciencedirect.com" and how to locate elements using Selenium will be explained.
 
