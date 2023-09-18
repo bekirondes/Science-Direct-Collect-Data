@@ -2,6 +2,6 @@ static/* linguist-vendored
 
 *.* linguist-language=Python
 *.* linguist-language=java
-
+*.cs     diff=csharp
 
 
